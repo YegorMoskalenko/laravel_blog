@@ -80,7 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Yegor Moskalenko
+                    Yegor Moskalenko - Hello from me
                 </div>
 
                 <div class="links">
